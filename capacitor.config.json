@@ -1,0 +1,6 @@
+{
+  "appId": "com.robsoncadete.sereno",
+  "appName": "Sereno",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
